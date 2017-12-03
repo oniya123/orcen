@@ -3,7 +3,7 @@
 你可以在 [editor on GitHub](https://github.com/oniya123/orcen/edit/gh-pages/README.md) 编辑你的网站
 
 
-### 使用Markdown
+### 学会使用Markdown语法
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,4 +25,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+更多详见[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
